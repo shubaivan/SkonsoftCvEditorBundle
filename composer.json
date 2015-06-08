@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "3.0.*@dev"
+        "symfony/framework-bundle": "v2.6.9"
     },
     "suggest": {
         "doctrine/doctrine-bundle": "*",

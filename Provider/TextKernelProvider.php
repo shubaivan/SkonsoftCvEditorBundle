@@ -122,7 +122,7 @@ class TextKernelProvider extends BaseProvider
      * loads a document into CvProfile object
      * 
      * @param string $document the path of document to load (doc, pdf)
-     * @return Skonsoft\Bundle\CvEditorBundle\Entity\CvProfile
+     * @return \Skonsoft\Bundle\CvEditorBundle\Entity\CvProfile
      */
     public function load($document)
     {
